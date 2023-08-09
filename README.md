@@ -24,7 +24,7 @@ I'm Shedrach Igemhokhai, a passionate Data Scientist and Machine Learning enthus
 
 🌐 [My Portfolio](https://www.datascienceportfol.io/Shedrach)
 
-📧 Email: [Send me an email](shedrach.igemhokhai@gmail.com)
+📧 Email: [shedrach.igemhokhai@gmail.com](shedrach.igemhokhai@gmail.com)
 
 📱 LinkedIn: [Shedrach Igemhokhai](https://www.linkedin.com/in/shedrach-igemhokhai-60982819a)
 
