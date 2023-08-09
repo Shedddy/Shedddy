@@ -1,4 +1,4 @@
-# Hello, World! 👋
+Hello, World! 👋
 
 I'm Shedrach Igemhokhai, a passionate Data Scientist and Machine Learning enthusiast with a knack for turning data into actionable insights. 📊🤖
 
@@ -16,15 +16,15 @@ I'm Shedrach Igemhokhai, a passionate Data Scientist and Machine Learning enthus
 
 ### 🌟 Highlights
 
-- Machine Blogger 📝
+- Medium Blogger 📝
 - Lifelong Learner 📚
-- Coffee Drinker ☕
+- Machine Learning Enthusiast 🤖
 
 ### 📫 Let's Connect
 
 🌐 [My Portfolio](https://www.datascienceportfol.io/Shedrach)
 
-📧 Email: [your.email@example.com](shedrach.igemhokhai@gmail.com)
+📧 Email: [Send me an email](shedrach.igemhokhai@gmail.com)
 
 📱 LinkedIn: [Shedrach Igemhokhai](https://www.linkedin.com/in/shedrach-igemhokhai-60982819a)
 
