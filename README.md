@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-I'm [Shedrach Igemhokhai], a passionate Data Scientist and Machine Learning enthusiast with a knack for turning data into actionable insights. 📊🤖
+I'm Shedrach Igemhokhai, a passionate Data Scientist and Machine Learning enthusiast with a knack for turning data into actionable insights. 📊🤖
 
 🔬 Skilled in Python and SQL
 🛠️ Engineering Modeling | Optimization
@@ -23,7 +23,11 @@ I'm [Shedrach Igemhokhai], a passionate Data Scientist and Machine Learning enth
 ### 📫 Let's Connect
 
 🌐 [Portfolio](https://www.datascienceportfol.io/Shedrach)
+
 📧 Email: [your.email@example.com](shedrach.igemhokhai@gmail.com)
+
 📱 LinkedIn: [Shedrach Igemhokhai](https://www.linkedin.com/in/shedrach-igemhokhai-60982819a)
+
 🐦 Twitter: [@S H E D D Y](https://twitter.com/Sheddy_Best)
+
 📝 Medium: [Shedrach Igemhokhai](https://medium.com/@i.v.shedrach)
