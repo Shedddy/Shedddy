@@ -22,7 +22,7 @@ I'm Shedrach Igemhokhai, a passionate Data Scientist and Machine Learning enthus
 
 ### 📫 Let's Connect
 
-🌐 [Portfolio](https://www.datascienceportfol.io/Shedrach)
+🌐 [My Portfolio](https://www.datascienceportfol.io/Shedrach)
 
 📧 Email: [your.email@example.com](shedrach.igemhokhai@gmail.com)
 
